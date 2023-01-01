@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ke-mantha/mantha-package-vue#readme",
   "devDependencies": {
     "@types/webpack": "^4.4.31",
-    "mini-css-extract-plugin": "^0.6.0",
+    "mini-css-extract-plugin": "^2.7.2",
     "rimraf": "^2.6.3",
     "typescript": "^3.4.5"
   },
